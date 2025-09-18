@@ -18,5 +18,6 @@ def pesquisa_binaria(lista, item):
     return None 
 # Testando o algoritmo
 minha_lista = [1, 3, 5, 7, 9]
+# Retorno 
 print pesquisa_binaria(minha_lista, 3)
 print pesquisa_binaria(minha_lista, -1)
